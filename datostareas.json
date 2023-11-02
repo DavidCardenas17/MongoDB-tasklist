@@ -1,0 +1,22 @@
+[
+    {
+    "id": "01",
+    "tarea": "limpiar",
+    "FechaLimite":"30-10-2023",
+    "status":"pendiente"
+    },
+    
+
+    {
+        "id": "02",
+        "tarea": "limpiar la sala",
+        "FechaLimite":"25-10-2023",
+        "status": "completa"
+    },
+    {
+        "id": "03",
+        "tarea": "limpiar la habitacion",
+        "Fechaimite":"15-11-2023",
+        "status": "pendiente"
+        }
+    ]
