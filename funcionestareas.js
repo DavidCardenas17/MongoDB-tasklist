@@ -69,10 +69,3 @@ const CRUD = {
 };
 
 module.exports = CRUD;
-git add .env
-git add conexiondb.js
-git add datostareas.json
-git add db.js
-git add formatotareas.js
-git add funcionestareas.js
-git add review-1.md
